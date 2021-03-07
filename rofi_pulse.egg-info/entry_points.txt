@@ -1,3 +1,0 @@
-[console_scripts]
-rofi_pulse = rofi_pulse:main
-

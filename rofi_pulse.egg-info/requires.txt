@@ -1,2 +1,0 @@
-pulsectl
-python-rofi

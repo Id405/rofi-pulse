@@ -1,9 +1,0 @@
-setup.py
-rofi_pulse/__init__.py
-rofi_pulse/rofi_pulse.py
-rofi_pulse.egg-info/PKG-INFO
-rofi_pulse.egg-info/SOURCES.txt
-rofi_pulse.egg-info/dependency_links.txt
-rofi_pulse.egg-info/entry_points.txt
-rofi_pulse.egg-info/requires.txt
-rofi_pulse.egg-info/top_level.txt
