@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: rofi-pulse
+Version: 1.0.0
+Summary: Control pulseaudio with rofi
+Home-page: https://github.com/id405/rofi-pulse
+Author: Id405
+Author-email: UNKNOWN
+License: GPL V3.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: Linux
+Classifier: Programming Languge :: Python :: 3
